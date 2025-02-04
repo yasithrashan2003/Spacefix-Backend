@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Spacefix App Backend
 
 A Node.js and Express.js backend application with Firebase integration.
@@ -19,7 +18,7 @@ A Node.js and Express.js backend application with Firebase integration.
 
 3. Run the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## API Endpoints
@@ -34,6 +33,3 @@ A Node.js and Express.js backend application with Firebase integration.
 - Never commit the .env file
 - Keep your Firebase credentials secure
 - Regenerate credentials if they are ever exposed
-=======
-# Spacefix-App-Backend
->>>>>>> 5ec5ccf (Initial commit)
